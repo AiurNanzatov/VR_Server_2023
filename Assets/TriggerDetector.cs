@@ -41,7 +41,7 @@ public class TriggerDetector : MonoBehaviour
                 StartCoroutine(FadeImage(false, "captcha5"));
                 break;
         }
-        
+       
     }
 
     IEnumerator FadeImage(bool fadeAway, string objectName)

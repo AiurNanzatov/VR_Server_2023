@@ -1711,7 +1711,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.4
       source: 6
-      resolvedPath: C:\Users\Aiur\Desktop\SmartVR_Authentication_2023\VR_Server_201022\Library\PackageCache\com.valvesoftware.unity.openvr@c089df2b4ad5-1665663155907
+      resolvedPath: C:\Users\Aiur\Desktop\SmartVR_Authentication_2023\VR_Server_201022\Library\PackageCache\com.valvesoftware.unity.openvr@c089df2b4ad5-1674077729601
       assetPath: Packages/com.valvesoftware.unity.openvr
       name: com.valvesoftware.unity.openvr
       displayName: OpenVR XR Plugin
@@ -4711,7 +4711,7 @@ m_PackageAssets:
       m_ContentTrackingEnabled: 1
       m_ModificationDate:
         serializedVersion: 2
-        ticks: 638012599559066846
+        ticks: 638096745296011532
       m_Hash: 2919789393
 m_ProjectPath: C:/Users/Aiur/Desktop/SmartVR_Authentication_2023/VR_Server_201022/Packages
 m_EditorVersion: 2020.3.25f1 (9b9180224418)
